@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    width: 550px;
+    background: #1F2937;
+    color: #FFFFFF;
+    padding: 115px 50px ;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+h1 {
+    margin: 0px;
+    line-height: 40px;
+}
+
+#randompassword {
+    color: #4ADF86;    
+}
+
+#tag {
+    color: #D1D5DB;
+    margin: 10px 0px;
+}
+
+button {
+    background: #4ADF86;
+    color: #FFFFFF;
+    padding: 9px 17px;
+    border-radius: 6px;
+    margin: 50px 0px 35px 0px;
+}
+
+.pswd-box {
+    width: 446px;
+    border-top: 2px solid #2F3E53;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between, center;
+    align-items: center;
+}
+
+.password {
+    background: #273549;
+    color: #55F991;
+    margin: 36px 24px;
+    width: 210px;
+    text-align: center;
+    padding: 4px 16px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-style: normal;
+}
